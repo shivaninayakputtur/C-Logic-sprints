@@ -2,11 +2,13 @@
    int main(){
    int a[3],i;                                             
    printf("enter the number:\n");
+   scanf("%d",&a[i]);
    i=0;
-   while(i<3)
-   {scanf("%d",&a[i]);  
-   printf("the number is:%d\n",a[i]);
-   i++;
-   }     
+   do{
+      i=i+1;
+      printf("%d",a[i]);
+   }
+   while(i<3);
+   
    return 0;
    }

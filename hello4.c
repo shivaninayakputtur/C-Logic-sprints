@@ -6,7 +6,6 @@ int main(){
   {
   scanf("%d",&a[i]);
   }
-  printf("the numbers are:%d\n",a[i]);
   for(i=0;i<4;i++){
   if(a[i]<0){
   printf("negative:%d\n",a[i]);
