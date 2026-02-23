@@ -7,6 +7,7 @@ Daily C programming practice as a 1st year AIML student.
 - Pattern Problems
 - Arrays
 - Functions
+- Flow of program
 
 ## 🎯 Goal
 Build strong programming fundamentals before moving to DSA and Python.
