@@ -1,5 +1,5 @@
 # C Logic Sprints 🚀
-Daily C programming practice as a 1st year AIML student.
+Java and C programming practice as a 1st year AIML student.
 
 ## 📌 Topics Practiced
 - If / Else & Switch
